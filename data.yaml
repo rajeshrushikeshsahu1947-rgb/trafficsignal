@@ -1,0 +1,9 @@
+names:
+  - green
+  - red
+  - yellow
+nc: 3
+
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
